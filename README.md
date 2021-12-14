@@ -1,6 +1,6 @@
 # Macronutrients and Calorie Tracker
 
--Django based utility web-apps to track and visualize daily macronutrients and calorie tracker of an user using Django and Javascript
+-Django based utility web-apps to track and visualize daily macronutrients and calorie tracker of an user using Django and Javascript.
 
 # Screenshot:
 
